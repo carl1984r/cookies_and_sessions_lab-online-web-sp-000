@@ -1,5 +1,5 @@
 class ProductsController < ApplicationController
- #helper_method :cart
+ helper_method :cart
 
   def index
 
